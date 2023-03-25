@@ -1,0 +1,1 @@
+maaf mas HW saya ini hanya sampai langkah kedua jalanin api menggunakan docker saja mas saya gagal terus running jest nya dan udah ada HW baru(react) yang deadline 2 hari lagi. dah ga semangat lagi ngerain HW ini mas apalagi seminggu kemarin laptop saya rusak sampai ke service 3x
